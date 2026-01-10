@@ -52,7 +52,11 @@ const billyJoe = {
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=billie355&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=billie355&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=billie355&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
@@ -84,4 +88,5 @@ const billyJoe = {
 **Thanks for visiting! Let's build something amazing together! 🚀**
 
 </div>
+
 
