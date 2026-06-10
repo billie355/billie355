@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=🚀+Building+Beautiful+%26+Responsive+UIs;✨+Clean+Code+|+Creative+Design;💡+Turning+Ideas+into+Reality;🎨+Front-End+Developer+from+PH" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Beautiful+%26+Responsive+UIs;Clean+Code+%7C+Creative+Design;Turning+Ideas+into+Reality;Front-End+Developer+from+PH" alt="Typing SVG" />
 
 <br/><br/>
 
