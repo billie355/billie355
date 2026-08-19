@@ -29,7 +29,11 @@
 
 ## 🧑‍💻 &nbsp; About Me
 
-<img align="right" src="https://raw.githubusercontent.com/billie355/billie355/main/hero.svg" width="36%" />
+<div align="center">
+<img src="https://raw.githubusercontent.com/billie355/billie355/main/hero.svg" width="70%" alt="Hey I'm Billy Joe" />
+</div>
+
+<br/>
 
 ```json
 {
@@ -42,8 +46,6 @@
   "fun_fact"   : "I debug with console.log 😂"
 }
 ```
-
-<br clear="right"/>
 
 <br/>
 
@@ -88,7 +90,7 @@
   <tr>
     <td align="center" width="33%">
       <a href="https://cata-pus.vercel.app/" target="_blank">
-        <img src="https://raw.githubusercontent.com/billie355/billie355/main/cata.png" width="180" height="150" style="border-radius:12px; object-fit:cover;" alt="Cata-pus" />
+        <img src="https://raw.githubusercontent.com/billie355/billie355/main/cata.png" width="180" height="180" style="border-radius:16px; object-fit:cover;" alt="Cata-pus" />
         <br/><br/>
         <b>🐱 Cata-pus</b>
       </a>
@@ -101,7 +103,7 @@
     </td>
     <td align="center" width="33%">
       <a href="https://billie355.github.io/STI-GradeCalculator/" target="_blank">
-        <img src="https://raw.githubusercontent.com/billie355/billie355/main/sti.png" width="180" height="150" style="border-radius:12px; object-fit:cover;" alt="STI Grade Calculator" />
+        <img src="https://raw.githubusercontent.com/billie355/billie355/main/sti.png" width="180" height="180" style="border-radius:16px; object-fit:cover;" alt="STI Grade Calculator" />
         <br/><br/>
         <b>🎓 STI Grade Calculator</b>
       </a>
@@ -114,7 +116,7 @@
     </td>
     <td align="center" width="33%">
       <a href="https://github-dev-chat.vercel.app/" target="_blank">
-        <img src="https://raw.githubusercontent.com/billie355/billie355/main/iconDev.png" width="180" height="150" style="border-radius:12px; object-fit:cover;" alt="GitHub Dev Chat" />
+        <img src="https://raw.githubusercontent.com/billie355/billie355/main/iconDev.png" width="180" height="180" style="border-radius:16px; object-fit:cover;" alt="GitHub Dev Chat" />
         <br/><br/>
         <b>💬 GitHub Dev Chat</b>
       </a>
