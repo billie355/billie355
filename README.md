@@ -154,9 +154,9 @@ const billyJoe = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=billie355&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff" height="165" alt="GitHub Stats" />
+<img src="https://streak-stats.demolab.com?user=billie355&theme=midnight-purple&hide_border=true&background=0d1117&stroke=A78BFA&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" height="165" alt="GitHub Streak" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=billie355&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=ffffff" height="165" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=billie355&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=ffffff&cache_seconds=1800" height="165" alt="Top Languages" />
 
 <br/><br/>
 
@@ -164,7 +164,7 @@ const billyJoe = {
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=billie355&theme=onestar&no-frame=true&row=1&column=7" width="95%" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=billie355&theme=dracula&no-frame=true&row=1&column=7&margin-w=10" width="95%" alt="GitHub Trophies" />
 
 </div>
 
