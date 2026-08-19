@@ -146,7 +146,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=billie355&theme=midnight-purple&hide_border=true&background=0D1117&stroke=8B5CF6&ring=A855F7&fire=C084FC&currStreakLabel=A855F7&sideLabels=A855F7" height="165" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=billie355&theme=midnight-purple&hide_border=true&background=0D1117&stroke=8B5CF6&ring=A855F7&fire=C084FC&currStreakLabel=A855F7&sideLabels=A855F7&v=2" height="165" alt="GitHub Streak" />
 &nbsp;&nbsp;
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=billie355&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff" height="165" alt="Top Languages" />
 
