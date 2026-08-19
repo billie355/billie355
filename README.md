@@ -2,27 +2,26 @@
 <!--                      HEADER BANNER                                -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:6D28D9,100:7C3AED&height=230&section=header&text=Billy%20Joe&fontSize=65&fontColor=F5F3FF&animation=fadeIn&fontAlignY=40&desc=Front-End%20Developer%20%E2%80%A2%20Philippines%20%F0%9F%87%B5%F0%9F%87%AD&descSize=17&descColor=C4B5FD&descAlignY=60">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EDE9FE,50:DDD6FE,100:C4B5FD&height=230&section=header&text=Billy%20Joe&fontSize=65&fontColor=4C1D95&animation=fadeIn&fontAlignY=40&desc=Front-End%20Developer%20%E2%80%A2%20Philippines%20%F0%9F%87%B5%F0%9F%87%AD&descSize=17&descColor=5B21B6&descAlignY=60" width="100%" alt="Header" />
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:A855F7,100:C084FC&height=230&section=header&text=Billy%20Joe%20%F0%9F%91%8B&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Front-End%20Developer%20%E2%80%A2%20Philippines%20%F0%9F%87%B5%F0%9F%87%AD&descSize=17&descColor=EDE9FE&descAlignY=60" width="100%" alt="Header" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=620&height=55&lines=Building+Beautiful+%26+Responsive+UIs+%F0%9F%8E%A8;Clean+Code+%7C+Creative+Design+%E2%9C%A8;Turning+Ideas+into+Reality+%F0%9F%9A%80;Front-End+Dev+from+Philippines+%F0%9F%87%B5%F0%9F%87%AD" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1000&color=A855F7&center=true&vCenter=true&width=640&height=60&lines=Building+Beautiful+%26+Responsive+UIs+%F0%9F%8E%A8;Clean+Code+%7C+Creative+Design+%E2%9C%A8;Turning+Ideas+into+Reality+%F0%9F%9A%80;Front-End+Dev+from+Philippines+%F0%9F%87%B5%F0%9F%87%AD" alt="Typing Animation" />
 
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/billy-joe-r-sablayan-749a2426a/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=About.me&logoColor=white)](https://billie355.github.io/responsive-portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=About.me&logoColor=white)](https://billie355.github.io/responsive-portfolio/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roxasablayanbillyjoe@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=billie355&color=7C3AED&style=for-the-badge&label=VISITORS)](https://github.com/billie355)
+[![Profile Views](https://komarev.com/ghpvc/?username=billie355&color=8B5CF6&style=for-the-badge&label=VISITORS)](https://github.com/billie355)
 
 </div>
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:C084FC&height=3" width="100%" />
+
+<br/>
 
 <!-- ══════════════════════════════════════════════════════════════════ -->
 <!--                         ABOUT ME                                  -->
@@ -48,7 +47,9 @@
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:C084FC&height=3" width="100%" />
+
+<br/>
 
 <!-- ══════════════════════════════════════════════════════════════════ -->
 <!--                        TECH STACK                                 -->
@@ -58,36 +59,22 @@
 
 <div align="center">
 
-**Languages & Markup**
+**Languages & Markup**<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark&perline=4" /><br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=light" alt="Languages" />
-</picture>
+**Frameworks & Libraries**<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,sass&theme=dark&perline=5" /><br/><br/>
 
-<br/>
-
-**Frameworks & Libraries**
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,sass&theme=dark">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,sass&theme=light" alt="Frameworks" />
-</picture>
-
-<br/>
-
-**Tools & Platforms**
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,figma,vscode,vercel,firebase&theme=dark">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,vercel,firebase&theme=light" alt="Tools" />
-</picture>
+**Tools & Platforms**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,vercel,firebase&theme=dark&perline=6" />
 
 </div>
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:C084FC&height=3" width="100%" />
+
+<br/>
 
 <!-- ══════════════════════════════════════════════════════════════════ -->
 <!--                     FEATURED PROJECTS                             -->
@@ -109,7 +96,7 @@
       <sub>A sleek, cat-themed web app with minimal UI &amp; cute interactions.</sub>
       <br/><br/>
       <a href="https://cata-pus.vercel.app/">
-        <img src="https://img.shields.io/badge/Live%20Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Live%20Demo-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
       </a>
     </td>
     <td align="center" width="33%">
@@ -145,7 +132,9 @@
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:C084FC&height=3" width="100%" />
+
+<br/>
 
 <!-- ══════════════════════════════════════════════════════════════════ -->
 <!--                       GITHUB STATS                                -->
@@ -155,35 +144,25 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=billie355&theme=midnight-purple&hide_border=true&background=0D1117&stroke=7C3AED&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=A78BFA">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=billie355&theme=default&hide_border=true&background=FFFFFF&stroke=7C3AED&ring=7C3AED&fire=6D28D9&currStreakLabel=6D28D9&sideLabels=6D28D9" height="165" alt="GitHub Streak" />
-</picture>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=billie355&theme=midnight-purple&hide_border=true&background=0D1117&stroke=8B5CF6&ring=A855F7&fire=C084FC&currStreakLabel=A855F7&sideLabels=A855F7" height="165" alt="GitHub Streak" />
 &nbsp;&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=billie355&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=billie355&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&title_color=7C3AED&text_color=1F2937" height="165" alt="Top Languages" />
-</picture>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=billie355&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff" height="165" alt="Top Languages" />
 
 <br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=billie355&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=7C3AED&point=A78BFA&area=true">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=billie355&theme=github&hide_border=true&color=7C3AED&line=7C3AED&point=6D28D9&area=true" width="95%" alt="Activity Graph" />
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=billie355&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=C084FC&line=8B5CF6&point=A855F7&area=true" width="95%" alt="Activity Graph" />
 
 <br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=billie355&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff&count_private=true&include_all_commits=true">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=billie355&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=7C3AED&icon_color=7C3AED&text_color=1F2937&count_private=true&include_all_commits=true" width="95%" alt="GitHub Stats" />
-</picture>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=billie355&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=C084FC&text_color=ffffff&count_private=true&include_all_commits=true" width="60%" alt="GitHub Stats" />
 
 </div>
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:C084FC&height=3" width="100%" />
+
+<br/>
 
 <!-- ══════════════════════════════════════════════════════════════════ -->
 <!--                       DEV QUOTE                                   -->
@@ -193,10 +172,7 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" width="95%" alt="Dev Quote" />
-</picture>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="95%" alt="Dev Quote" />
 
 </div>
 
@@ -206,7 +182,4 @@
 <!--                        FOOTER                                     -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:6D28D9,100:4C1D95&height=130&section=footer">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C4B5FD,50:DDD6FE,100:EDE9FE&height=130&section=footer" width="100%" alt="Footer" />
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C084FC,50:A855F7,100:8B5CF6&height=140&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%92%9C&fontSize=22&fontColor=ffffff&fontAlignY=65" width="100%" alt="Footer" />
